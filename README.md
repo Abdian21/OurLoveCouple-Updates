@@ -2,7 +2,7 @@
 
 Repository ini dipakai sebagai tempat update aplikasi **OurLoveCouple**.
 
-**OurLoveCouple** adalah aplikasi private couple space untuk pasangan. Aplikasi ini dibuat untuk menyimpan kenangan, chat, catatan, lokasi, perjalanan, pengingat, target bersama, keuangan, dan fitur pasangan lainnya.
+**OurLoveCouple** adalah aplikasi private couple space untuk pasangan. Aplikasi ini dibuat untuk menyimpan kenangan, catatan, lokasi, perjalanan, pengingat, target bersama, keuangan, dan fitur pasangan lainnya.
 
 ## Dibuat oleh
 
@@ -38,14 +38,4 @@ Repository ini berisi file update aplikasi:
 - Target bersama
 - Keuangan
 - Asisten AI
-- Update aplikasi langsung dari APK
-
-## Update Aplikasi
-
-Aplikasi membaca file `update.json`.
-
-Jika `versionCode` di `update.json` lebih tinggi dari versi aplikasi yang terpasang, aplikasi akan menampilkan pembaruan.
-
-## Catatan
-
-Repository ini hanya dipakai untuk distribusi update aplikasi OurLoveCouple.
+- Update aplikasi sudah bisa langsung dari APK
