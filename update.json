@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.7/OurLoveCouple-1.0.7.apk",
-  "changelog": "Hotfix: memperbaiki blank screen pada halaman utama dan fitur baru, serta menjaga perbaikan notifikasi chat, UI baterai pasangan, splash, maps, Safety Partner, Mode Perjalanan, Reminder Couple, Mood Harian, Timeline Cinta, Janji Kita, Couple Goals, upgrade Keuangan, AI Assistant demo, dan credit Abdian Rabbani."
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.8/OurLoveCouple-1.0.8.apk",
+  "changelog": "Update: MapLibre + MapTiler untuk lokasi dan perjalanan, marker profil lebih compact, AI Assistant aktif, peningkatan pengingat, catatan, target bersama, bahasa Indonesia, dan perbaikan UI."
 }
