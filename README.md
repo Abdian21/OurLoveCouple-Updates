@@ -39,3 +39,5 @@ Repository ini berisi file update aplikasi:
 - Keuangan
 - Asisten AI
 - Update aplikasi sudah bisa langsung dari APK
+
+Test CodeRabbit review
