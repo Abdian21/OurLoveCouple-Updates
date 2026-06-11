@@ -1,6 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.8/OurLoveCouple-1.0.8.apk",
-  "changelog": "Update: MapLibre + MapTiler untuk lokasi dan perjalanan, marker profil lebih compact, AI Assistant aktif, peningkatan pengingat, catatan, target bersama, bahasa Indonesia, dan perbaikan UI."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.9/OurLoveCouple-v1.0.9.apk",
+  "releaseNotes": "Update 1.0.9: perbaikan bug, peningkatan tampilan, dan stabilitas aplikasi.",
+  "forceUpdate": false
 }
