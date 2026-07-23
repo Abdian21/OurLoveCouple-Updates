@@ -162,23 +162,6 @@ Future improvements:
 
 ---
 
-# 📷 Screenshots
-
-Add application screenshots:
-
-```
-screenshots/
-│
-├── login.png
-├── home.png
-├── chat.png
-├── memories.png
-├── profile.png
-└── location.png
-```
-
----
-
 # 🚀 Installation
 
 ## Requirements
