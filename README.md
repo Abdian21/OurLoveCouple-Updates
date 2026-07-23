@@ -187,29 +187,6 @@ screenshots/
 - Android SDK
 - Firebase configuration
 
-## Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Abdian21/OurLoveCouple.git
-```
-
-Open the project using Android Studio.
-
-Configure your own Firebase project:
-
-```
-google-services.json
-```
-
-Then build:
-
-```bash
-./gradlew assembleDebug
-```
-
----
 
 # 🤝 Contributing
 
