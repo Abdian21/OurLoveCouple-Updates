@@ -1,96 +1,243 @@
 # 💕 OurLoveCouple
 
 <p align="center">
-  <b>Aplikasi Android untuk menyimpan cerita, kenangan, dan momen bersama pasangan.</b>
+  <img src="screenshots/banner.png" alt="OurLoveCouple Banner" width="800"/>
 </p>
+
+<h3 align="center">
+A modern Android application for couples to connect, share memories, and preserve meaningful moments together.
+</h3>
 
 <p align="center">
-  <img src="screenshots/banner.png" width="700"/>
+  Built with native Android technology and cloud-based services.
 </p>
 
-## 📖 Tentang Proyek
+---
 
-**OurLoveCouple** adalah aplikasi Android open source yang dibuat untuk membantu pasangan menjaga hubungan jarak jauh maupun dekat melalui fitur komunikasi, berbagi kenangan, dan interaksi bersama.
+## 📖 Overview
 
-Proyek ini dikembangkan secara mandiri dengan tujuan mempelajari dan menerapkan pengembangan aplikasi mobile modern menggunakan teknologi Android dan layanan cloud.
+**OurLoveCouple** is an open-source Android application designed to help couples stay connected through digital experiences.
+
+The application focuses on creating a private space where two people can communicate, save important memories, track special dates, and share moments together.
+
+This project is developed independently as a real-world Android development project, focusing on mobile engineering practices, cloud integration, real-time data handling, and user experience improvements.
 
 ---
 
-## ✨ Fitur Utama
+# ✨ Features
 
-### 💑 Couple Connection
-- Sistem pairing pasangan menggunakan kode unik
-- Menghubungkan dua akun dalam satu ruang pasangan
-- Informasi pasangan secara realtime
+## 💑 Couple Connection
 
-### 💬 Chat
-- Percakapan realtime antar pasangan
-- Status pesan terkirim dan terbaca
-- Penghapusan pesan dengan tekan lama
+Create a private connection between two accounts.
 
-### 📸 Kenangan
-- Menyimpan momen spesial bersama
-- Upload foto kenangan
-- Dokumentasi perjalanan hubungan
+Features:
+- Pair accounts using a unique couple code
+- Manage connected partner information
+- Synchronize relationship data between devices
 
-### 🗺️ Berbagi Lokasi
-- Berbagi lokasi pasangan secara realtime
-- Melihat lokasi pasangan di peta
-- Kontrol aktif/nonaktif berbagi lokasi
 
-### ❤️ Together Counter
-- Menghitung lama hubungan
-- Menyimpan tanggal spesial seperti anniversary
+## 💬 Real-Time Messaging
 
-### 👤 Profil
-- Profil pengguna
-- Foto/avatar pengguna
-- Informasi pasangan
+Communicate privately with your partner.
 
-### 🔔 Notifikasi
-- Notifikasi pesan baru
-- Update aktivitas pasangan
+Features:
+- Real-time chat
+- Message synchronization
+- Message status handling
+- Message management
+
+
+## 📸 Memories
+
+Save meaningful moments together.
+
+Features:
+- Store relationship memories
+- Upload photos
+- Organize special moments
+
+
+## ❤️ Relationship Timeline
+
+Keep track of important relationship milestones.
+
+Features:
+- Anniversary date
+- Together duration counter
+- Special relationship events
+
+
+## 🗺️ Location Sharing
+
+Share location information with your connected partner.
+
+Features:
+- Real-time location updates
+- Map visualization
+- Location sharing controls
+
+
+## 👤 User Profile
+
+Personalize your account.
+
+Features:
+- Profile information
+- Avatar support
+- Partner information display
+
+
+## 🔔 Notifications
+
+Stay updated with important activities.
+
+Features:
+- Message notifications
+- Activity updates
+- Background notification support
+
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+# 🏗️ Architecture & Technologies
 
-- **Java**
-- **Android SDK**
-- **XML Layout**
-- **Firebase Authentication**
-- **Firebase Realtime Database / Firestore**
-- **Firebase Storage**
-- **Firebase Cloud Messaging**
-- **OpenStreetMap (OSMDroid)**
+## Android Development
 
----
+- Java
+- Android SDK
+- XML Layout
+- Material Design Components
 
-## 🎯 Tujuan Pengembangan
+## Backend Services
 
-Proyek ini dibuat sebagai pembelajaran dan eksperimen dalam:
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Cloud Firestore
+- Firebase Storage
+- Firebase Cloud Messaging
 
-- Android native development
-- Database realtime
-- Cloud backend integration
-- User authentication
-- Location services
-- Real-time communication
+## Location
+
+- OpenStreetMap
+- OSMDroid
 
 ---
 
-## 🚀 Roadmap
+# 🎯 Project Goals
 
-Beberapa pengembangan yang direncanakan:
+The main goals of OurLoveCouple are:
 
-- [ ] Peningkatan UI/UX aplikasi
-- [ ] Optimasi performa aplikasi
-- [ ] Peningkatan sistem keamanan data
-- [ ] Fitur tambahan untuk pasangan
-- [ ] Dokumentasi developer yang lebih lengkap
+- Building a practical Android application from scratch
+- Learning modern mobile application development
+- Implementing realtime cloud-based features
+- Improving software engineering skills through continuous development
+- Creating an open-source project that can be improved by developers
 
 ---
 
-## 📱 Screenshot
+# 🚧 Development Status
 
-Tambahkan screenshot aplikasi di folder:
+OurLoveCouple is actively developed.
+
+Current development focuses on:
+
+- Improving application stability
+- Enhancing user experience
+- Optimizing realtime synchronization
+- Improving code quality
+- Adding new relationship-focused features
+
+---
+
+# 🛣️ Roadmap
+
+Future improvements:
+
+- [ ] Better application performance optimization
+- [ ] More customization options
+- [ ] Improved offline experience
+- [ ] Additional couple interaction features
+- [ ] More detailed developer documentation
+
+
+---
+
+# 📷 Screenshots
+
+Add application screenshots:
+
+```
+screenshots/
+│
+├── login.png
+├── home.png
+├── chat.png
+├── memories.png
+├── profile.png
+└── location.png
+```
+
+---
+
+# 🚀 Installation
+
+## Requirements
+
+- Android Studio
+- Android SDK
+- Firebase configuration
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Abdian21/OurLoveCouple.git
+```
+
+Open the project using Android Studio.
+
+Configure your own Firebase project:
+
+```
+google-services.json
+```
+
+Then build:
+
+```bash
+./gradlew assembleDebug
+```
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+- Reporting bugs
+- Suggesting improvements
+- Improving documentation
+- Submitting pull requests
+
+Please open an issue before making major changes.
+
+---
+
+# 🔐 Privacy
+
+OurLoveCouple is designed with privacy in mind.
+
+Relationship data is intended to be accessible only by connected users through the application's authentication and database security system.
+
+---
+
+# 👨‍💻 Developer
+
+**Abdian Rabbani**
+
+Independent Android Developer
+
+This project represents continuous learning and development in Android engineering, backend integration, and open-source software practices.
