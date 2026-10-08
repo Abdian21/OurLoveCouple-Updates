@@ -1,199 +1,82 @@
 # 💕 OurLoveCouple
 
-<h3 align="center">
-A modern Android application for couples to connect, share memories, and preserve meaningful moments together.
-</h3>
+### A modern Android app for couples — connect, chat, and preserve your meaningful moments together.
 
-<p align="center">
-  Built with native Android technology and cloud-based services.
-</p>
+![version](https://img.shields.io/badge/version-1.0.13-ff69b4?style=for-the-badge)
+![platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
+![minSdk](https://img.shields.io/badge/minSdk-24-blue?style=for-the-badge)
+
+---
+
+## ⬇️ Download
+
+**Latest version: v1.0.13**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.13/OurLoveCouple-1.0.13.apk)
+
+> Requires Android 7.0 (Nougat) or higher
+
+Or grab it from the [Releases](https://github.com/Abdian21/OurLoveCouple-Updates/releases) page.
 
 ---
 
 ## 📖 Overview
 
-**OurLoveCouple** is an open-source Android application designed to help couples stay connected through digital experiences.
+**OurLoveCouple** is an Android application designed to help couples stay connected through digital experiences. It creates a private space where two people can communicate, save important memories, track special dates, and share moments together.
 
-The application focuses on creating a private space where two people can communicate, save important memories, track special dates, and share moments together.
-
-This project is developed independently as a real-world Android development project, focusing on mobile engineering practices, cloud integration, real-time data handling, and user experience improvements.
+Built with native Android technology and cloud-based services.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-## 💑 Couple Connection
-
-Create a private connection between two accounts.
-
-Features:
-- Pair accounts using a unique couple code
-- Manage connected partner information
-- Synchronize relationship data between devices
-
-
-## 💬 Real-Time Messaging
-
-Communicate privately with your partner.
-
-Features:
-- Real-time chat
-- Message synchronization
-- Message status handling
-- Message management
-
-
-## 📸 Memories
-
-Save meaningful moments together.
-
-Features:
-- Store relationship memories
-- Upload photos
-- Organize special moments
-
-
-## ❤️ Relationship Timeline
-
-Keep track of important relationship milestones.
-
-Features:
-- Anniversary date
-- Together duration counter
-- Special relationship events
-
-
-## 🗺️ Location Sharing
-
-Share location information with your connected partner.
-
-Features:
-- Real-time location updates
-- Map visualization
-- Location sharing controls
-
-
-## 👤 User Profile
-
-Personalize your account.
-
-Features:
-- Profile information
-- Avatar support
-- Partner information display
-
-
-## 🔔 Notifications
-
-Stay updated with important activities.
-
-Features:
-- Message notifications
-- Activity updates
-- Background notification support
-
+| Feature | Description |
+| ------- | ----------- |
+| 💑 Couple Connection | Pair accounts using a unique couple code. Manage partner info and sync relationship data between devices. |
+| 💬 Real-Time Messaging | Private real-time chat with message sync, status handling, and management. |
+| 📷 Memories | Store relationship memories, upload photos, and organize special moments. |
+| ❤️ Relationship Timeline | Anniversary date, together-duration counter, and special relationship events. |
+| 🗺️ Location Sharing | Real-time location updates with map visualization and sharing controls. |
+| 👤 User Profile | Profile info, avatar support, and partner information display. |
+| 🔔 Notifications | Message notifications, activity updates, and background notification support. |
 
 ---
 
-# 🏗️ Architecture & Technologies
+## 🏗️ Tech Stack
 
-## Android Development
-
-- Java
-- Android SDK
-- XML Layout
-- Material Design Components
-
-## Backend Services
-
-- Firebase Authentication
-- Firebase Realtime Database
-- Firebase Cloud Firestore
-- Firebase Storage
-- Firebase Cloud Messaging
-
-## Location
-
-- OpenStreetMap
-- OSMDroid
+**Android:** Java, Android SDK, XML Layout, Material Design Components
+**Backend:** Firebase Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging
+**Location:** OpenStreetMap, OSMDroid
 
 ---
 
-# 🎯 Project Goals
-
-The main goals of OurLoveCouple are:
+## 🎯 Project Goals
 
 - Building a practical Android application from scratch
 - Learning modern mobile application development
 - Implementing realtime cloud-based features
 - Improving software engineering skills through continuous development
-- Creating an open-source project that can be improved by developers
 
 ---
 
-# 🚧 Development Status
+## 🚧 Development Status
 
-OurLoveCouple is actively developed.
-
-Current development focuses on:
-
-- Improving application stability
-- Enhancing user experience
-- Optimizing realtime synchronization
-- Improving code quality
-- Adding new relationship-focused features
+OurLoveCouple is actively developed. Current focus: improving stability, enhancing UX, optimizing realtime sync, improving code quality, adding new relationship-focused features.
 
 ---
 
-# 🛣️ Roadmap
+## 🔄 Update Check
 
-Future improvements:
-
-- [ ] Better application performance optimization
-- [ ] More customization options
-- [ ] Improved offline experience
-- [ ] Additional couple interaction features
-- [ ] More detailed developer documentation
-
+The app checks for updates automatically via [update.json](https://github.com/Abdian21/OurLoveCouple-Updates/blob/main/update.json).
 
 ---
 
-# 🚀 Installation
+## 🔒 Privacy
 
-## Requirements
-
-- Android Studio
-- Android SDK
-- Firebase configuration
-
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-You can contribute by:
-
-- Reporting bugs
-- Suggesting improvements
-- Improving documentation
-- Submitting pull requests
-
-Please open an issue before making major changes.
+Designed with privacy in mind. Relationship data is accessible only by connected users through authentication and database security.
 
 ---
 
-# 🔐 Privacy
+## 🧑‍💻 Developer
 
-OurLoveCouple is designed with privacy in mind.
-
-Relationship data is intended to be accessible only by connected users through the application's authentication and database security system.
-
----
-
-# 👨‍💻 Developer
-
-**Abdian Rabbani**
-
-Independent Android Developer
-
-This project represents continuous learning and development in Android engineering, backend integration, and open-source software practices.
+**Abdian Rabbani** — Independent Android Developer
