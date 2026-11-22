@@ -2,7 +2,7 @@
 
 ### A modern Android app for couples — connect, chat, and preserve your meaningful moments together.
 
-![version](https://img.shields.io/badge/version-1.0.13-ff69b4?style=for-the-badge)
+![version](https://img.shields.io/badge/version-1.0.15-ff69b4?style=for-the-badge)
 ![platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
 ![minSdk](https://img.shields.io/badge/minSdk-24-blue?style=for-the-badge)
 
@@ -10,9 +10,9 @@
 
 ## ⬇️ Download
 
-**Latest version: v1.0.13**
+**Latest version: v1.0.15**
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.13/OurLoveCouple-1.0.13.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.15/OurLoveCouple-1.0.15.apk)
 
 > Requires Android 7.0 (Nougat) or higher
 
