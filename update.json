@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v1.0.15/OurLoveCouple-1.0.15.apk",
-  "releaseNotes": "Update 1.0.15: pembaruan nomor versi (tidak ada perubahan fitur).",
+  "versionCode": 17,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/Abdian21/OurLoveCouple-Updates/releases/download/v2.0/OurLoveCouple-2.0.apk",
+  "releaseNotes": "Update 2.0: perbaikan notifikasi chat, centang chat, Quiz lanjutan, dan perbaikan lainnya.",
   "forceUpdate": false
 }
